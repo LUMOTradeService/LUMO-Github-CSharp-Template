@@ -28,5 +28,5 @@
 
 ## Setup
 
-How to setup
+*** How to setup ***
 
