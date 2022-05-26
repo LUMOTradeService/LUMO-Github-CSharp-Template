@@ -3,7 +3,7 @@
 
 # Template Project
 
-*** Placoholder text ***
+*** Placeholder text ***
 
 ## Table of contents
 * [Introduction](#introduction)
